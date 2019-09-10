@@ -23,18 +23,18 @@
   ],
   "users": [
         {
-          "id": 1
-          "name": "James"
+          "id": 1,
+          "name": "James",
           "email": "James@email.com"
         },
         {
-          "id": 2
-          "name": "Patricia"
+          "id": 2,
+          "name": "Patricia",
           "email": "Patricia@email.com"
         },
         {
-          "id": 3
-          "name": "Frank"
+          "id": 3,
+          "name": "Frank",
           "email": "Frank@email.com"
         }
   ]
